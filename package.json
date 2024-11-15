@@ -1,28 +1,28 @@
 {
-  "name": "@clarkio/simple-npm-package",
-  "version": "0.0.2",
-  "description": "A simple npm package for demonstration purposes and use in a Node.js app.",
+  "name": "@brokenglassinmyfeet/dompurifyplusplus",
+  "version": "3.2.0",
+  "description": "DOMPurifyPlusPlus is a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/clarkio/simple-npm-package.git"
+    "url": "git+https://github.com/cure53/DOMPurify.git"
   },
-  "author": "clarkio",
+  "author": "brokenglassinmydeet",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/clarkio/simple-npm-package/issues"
+    "url": "https://github.com/cure53/DOMPurify/issues"
   },
-  "homepage": "https://github.com/clarkio/simple-npm-package#readme",
+  "homepage": "https://github.com/cure53/DOMPurify#readme",
   "keywords": [
     "node.js",
     "javascript",
     "npm",
     "package",
     "example",
-    "demo",
-    "hello world"
+    "dompurifyplusplus",
+    "dompurify"
   ]
 }
